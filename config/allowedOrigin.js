@@ -1,6 +1,7 @@
 const allowedOrigins = [
-    'http://localhost:3000',
-    'http://localhost:3001',
+    'http://footwear-dakalo-store.shop',
+    'https://footwear-dakalo-store.shop',
+    
 ]
 
 module.exports = allowedOrigins;
